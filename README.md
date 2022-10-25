@@ -13,7 +13,7 @@ challenging work environment.</h3>
 
 -👨‍💻 All of my projects are available at [https://dhamisir.github.io/](https://dhamisir.github.io/)
 
--📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-DIMCGjbZxhkc58Sx_zVEl4-rYqrKIyg/view?usp=sharing)
+-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1I77BUDiNWGBkxRNUv4nAsgD_c4CxTn8o/view?usp=sharing)
 
 -📧 Email - himanshudhami1516@gmail.com
 
