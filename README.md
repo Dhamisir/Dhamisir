@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Himanshu Dhami</h1>
 <h3 align="center">Passionate Full-Stack engineer specializing in Html, CSS,
-Javascript, ReactJs, Chakra, Bootstrap UI, Php, and MySQL
+Javascript, ReactJs, Nodejs, ExpressJs, MongoDb, Chakra UI, Bootstrap UI, Php, and MySQL
 and curious, with a keen interest in building user-centric
 products. Looking forward to honing my skills in a
 challenging work environment.</h3>
