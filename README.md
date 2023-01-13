@@ -28,7 +28,7 @@ challenging work environment.</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/himanshu-dhami-e55ec2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-dhami-e55ec2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@himanshu1527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@himanshu1527" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Himanshu1527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@himanshu1527" height="30" width="40" /></a>
 </p>
 <br/>
 
